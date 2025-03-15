@@ -1,6 +1,11 @@
-# 🗣️ AI Voice Assistant (Always Listening)  
+# AI Voice Assistant 
 
-This is a **fully offline voice assistant** that continuously listens for voice input, responds intelligently, and can control home automation devices like lights and fans.  
+This is a **fully offline voice assistant** that continuously listens for voice input, responds intelligently, and can control home automation devices like lights and fans.  This is for a Hackathon which is being conducted by Jain Online
+
+# My Details
+#### name: Shrijith S Menon
+#### USN: 23BTRCL022
+#### Branch- B.Tech CSE-AIML
 
 ## ✨ Features  
 ✅ **Always Listening** – No wake word needed.  
@@ -66,4 +71,3 @@ The assistant will listen, process commands, and respond in real-time!
 🔹 Add real home automation control (e.g., smart plugs, IoT devices).  
 🔹 Improve chatbot responses with a fine-tuned model.  
 🔹 Build a GUI/Web Interface for better interaction.  
-
