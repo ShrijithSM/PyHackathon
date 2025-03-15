@@ -1,0 +1,6 @@
+queue
+sounddevice
+vosk
+json
+pyttsx3
+transformers

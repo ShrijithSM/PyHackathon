@@ -3,7 +3,6 @@ import sounddevice as sd
 import vosk
 import json
 import pyttsx3
-import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Initialize Vosk model for speech recognition
