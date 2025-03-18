@@ -37,7 +37,6 @@ voice-assistant/
 │── requirements.txt
 │── README.md
 ```
-
 ---
 
 ## 🎤 Usage  
